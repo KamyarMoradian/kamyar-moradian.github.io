@@ -63,7 +63,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/KamyarMoradian/kamyar-moradian.github.io
+  gitRepo: https://github.com/KamyarMoradian/personal-website
   # Default branch of your Git repo
   gitBranch: main
 
