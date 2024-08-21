@@ -39,9 +39,9 @@ skills:
   logo: /images/sections/skills/c++.svg
   summary: "I have learned and applied C/C++ through my university courses and projects, including Operating Systems and Fundamentals of Programming. This experience has equipped me with a solid understanding of low-level programming concepts and system-level operations."
 
-# - name: SQL
-#   logo: /images/sections/skills/SQL.svg
-#   summary: "Proficient in utilizing this programming language alongside two prominent database management systems, SQL Server and PostgreSQL. My experience includes implementing queries and managing data effectively within these environments."
+- name: SQL
+  logo: /images/sections/skills/SQL.svg
+  summary: "Proficient in utilizing this programming language alongside two prominent database management systems, SQL Server and PostgreSQL. My experience includes implementing queries and managing data effectively within these environments."
 
 # - name: Docker
 #   logo: /images/sections/skills/docker.svg
