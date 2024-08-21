@@ -1,9 +1,9 @@
 # section information
 section:
-  name: Accomplishments
+  name: Certificates
   id: accomplishments
   enable: true
-  weight: 9
+  weight: 15
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -11,36 +11,127 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Convolutional Neural Networks
+  timeline: "Mar 2024"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
-
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
-  organization:
-    name: Coursera
+    name: Coursera, DeepLearning.AI
     url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+  # courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+  certificateURL: "https://coursera.org/share/393e3be8d625f3e9d0e8afbf3594b731"
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: Sequence Models
+  timeline: "Feb 2024"
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: Coursera, DeepLearning.AI
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/a002bbde0c776b58191c7b5bb097de21"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Improving Deep Neural Networks - Hyperparameter Tuning, Regularization and Optimization
+  timeline: "Oct 2023"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
- 
+    name: Coursera, DeepLearning.AI
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/2ed72b46bfafe624b0557f09555aba0c"
+
+- name: Structuring Machine Learning Projects
+  timeline: "Oct 2023"
+  organization:
+    name: Coursera, DeepLearning.AI
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/bd82c3c6bad9e1384ff989145c400931"
+
+- name: Neural Networks and Deep Learning
+  timeline: "Sep 2023"
+  organization:
+    name: Coursera, DeepLearning.AI
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/2ed72b46bfafe624b0557f09555aba0c"
+
+- name: Unsupervised Learning, Recommenders, Reinforcement Learning
+  timeline: "Sep 2023"
+  organization:
+    name: Coursera, Standford, DeepLearning.AI
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/2ccdeaed0f42bf531d8734bcca968c58"
+
+- name: Advanced Learning Algorithms
+  timeline: "Sep 2023"
+  organization:
+    name: Coursera, Standford, DeepLearning.AI
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/e56b013be6210ef5ddc40c39033be188"
+
+- name: Supervised Machine Learning - Regression and Classification
+  timeline: "Aug 2023"
+  organization:
+    name: Coursera, Standford, DeepLearning.AI
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/265af4d2765fbbd2ee246dd9990e628c"
+
+- name: Linear Algebra for Machine Learning and Data Science
+  timeline: "Sep 2023"
+  organization:
+    name: Coursera, DeepLearning.AI
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/cc8984f9172082b88bb76744c96ed002"
+
+- name: Capstone - Retrieving, Processing, and Visualizing Data with Python
+  timeline: "Sep 2022"
+  organization:
+    name: Coursera, University of Michigan
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/9e3745b77de45ccfc13ca3e59ec606b2"
+
+- name: Using Databases with Python
+  timeline: "Sep 2022"
+  organization:
+    name: Coursera, University of Michigan
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/b0dc8a073730593e746f6530f4a0c733"
+
+- name: Using Python to Access Web Data
+  timeline: "Sep 2022"
+  organization:
+    name: Coursera, University of Michigan
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/008d8b25430963e42b0090661b67fa6d"
+
+- name: Python Data Structures
+  timeline: "Aug 2022"
+  organization:
+    name: Coursera, University of Michigan
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/a14c01d694bb82612e635ee52c7e322d"
+
+- name: Programming for Everybody (Getting Started with Python)
+  timeline: "Aug 2022"
+  organization:
+    name: Coursera, University of Michigan
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/61c69c3cfcaf09356df64b0d772ab7aa"
+
+- name: Algorithms on Graphs
+  timeline: "Jul 2022"
+  organization:
+    name: Coursera, UC, SanDiego
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/858749c9f48181e65cb2a3d99ef31cb8"
+
+- name: Data Structures
+  timeline: "Feb 2022"
+  organization:
+    name: Coursera, UC, SanDiego
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/619884a0bbdeeea0da61471d4d1a6317"
+
+- name: Algorithmic Toolbox
+  timeline: "Sep 2021"
+  organization:
+    name: Coursera, UC, SanDiego
+    url: https://www.coursera.org
+  certificateURL: "https://coursera.org/share/6ca5c349b56b1dca156d33c56b123725"
+
+
+
+
 

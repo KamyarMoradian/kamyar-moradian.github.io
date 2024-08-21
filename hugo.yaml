@@ -1,7 +1,7 @@
 baseURL: https://KamyarMoradian.github.io
 
 languageCode: bn
-title: "John's Blog"
+title: "Kamyar's Personal Webpage"
 
 # Use Hugo modules to add theme
 module:
@@ -53,7 +53,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/background.jpg
+  background: /images/site/background.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
@@ -84,7 +84,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:

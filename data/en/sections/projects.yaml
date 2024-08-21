@@ -1,9 +1,9 @@
 # section information
 section:
-  name: Projects
+  name: Academic Projects
   id: projects
   enable: true
-  weight: 5
+  weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -12,53 +12,74 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
+- name: Artificial Intelligence
+  filter: "ai"
+- name: Software
+  filter: "software"
+- name: Hardware
+  filter: "hardware"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+- name: Anti-Spoofing System for Facial Recognition
+  role: Fundamentals of Computer Vision Course Project
+  timeline: "Spring 2024"
+  repo: https://github.com/KamyarMoradian/Anti-Spoofing-System # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  summary: Developed a real-time facial spoofing detection system using two distinct approaches. The first approach combined Feature Extraction, Principal Component Analysis (PCA), and Support Vector Machine (SVM) to effectively reduce data dimensionality while maintaining high classification accuracy. The second approach utilized CNNs for deep learning-based spoof detection, allowing the model to learn complex features directly from raw images. Evaluated both methods, highlighting the strengths and trade-offs between traditional machine learning and modern deep learning techniques.
+  tags: ["ai", "cv"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+- name: Sentiment Analysis on Persian Text Using Natural Language Processing (NLP)
+  role: Deep Learning Course Project
+  timeline: "Fall 2023"
+  repo: https://github.com/KamyarMoradian/NLP-Sentimental-Analysis
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: Developed a sentiment analysis model for Persian text, detecting six key emotions—Anger, Fear, Happiness, Sadness, Wonder, and Hatred—using the XLM-RoBERTa transformer model. Preprocessed the text with NLP techniques and fine-tuned the model on the ArmanEmo dataset, achieving 75.23% accuracy, among the top accuracies of class. Conducted experiments to validate the model's robustness and compared performance across different architectures.
+  tags: ["ai", "nlp"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Katyusha - A Course Registration Assistant for Students
+  role: System Analysis & Design Course Project | Software Engineering Course Project
+  logo: /images/sections/projects/katyusha.png
+  timeline: "Mar 2023 - Apr 2024"
+  repo: "https://github.com/orgs/Katyusha-Group/repositories"
+  summary: Developed a comprehensive system to assist university students in selecting units for the next semester. This project encompassed a Docker-based isolated development environment with automated CI/CD, scalable backend services using Django, and a PostgreSQL database. The system featured a web crawler with AI-based CAPTCHA bypass for efficient data extraction, as well as integrated social media functionalities including chat, posts, and user follow options. To enhance user experience, email and Telegram notifications were implemented for unit availability updates, alongside well-designed RESTful APIs for seamless frontend interaction.
+  tags: ["ai", "software"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
+- name: AI-Powered Solution for Mountain Car Problem
+  role: Artificial Intelligence Course Project
+  timeline: "Fall 2023"
+  repo: https://github.com/KamyarMoradian/AI-MountainCar
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  summary: Developed and implemented a reinforcement learning-based agent to solve the Classic Mountain Car Problem, a well-known challenge in control theory and artificial intelligence, using Q-learning and other techniques to optimize the car's performance in reaching the hill's peak. The project involved implementing the solution in Python, optimizing for speed and convergence, and conducting extensive testing to ensure robustness. Hyperparameter tuning led to significant improvements in learning efficiency and solution optimality.
+  tags: ["ai"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Accelerator Hardware Implementation for CNNs
+  role: Digital Computer Design Course Project
+  timeline: "Fall 2023"
+  repo: https://github.com/KamyarMoradian/CAD-CNN-Hardware
+  summary: Designed and implemented a VHDL-based hardware accelerator for CNNs optimizing performance for real-time applications. Conducted extensive testing to ensure accuracy and reliability. This project was inspired by "RASHT-A Partially Reconfigurable Architecture for Efficient Implementation of CNNs" published in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022.
+  tags: ["hardware", "ai"]
+
+- name: Evaluation of Generative Models Using Retrieval-Augmented Generation (RAG)
+  role: Natural Language Processing Course Project
+  timeline: "Spring 2024"
+  repo: https://github.com/KamyarMoradian/RAG-Evaluation-of-Different-Generators
+  summary: This project involves a detailed evaluation of different generative models using the Retrieval-Augmented Generation (RAG) framework. The primary objective is to assess the performance of these models in generating contextually relevant and accurate text outputs. The project integrates retrieval mechanisms with generative models to enhance their output quality. It includes implementing various generative models, conducting experiments to compare their performance metrics, and analyzing the results to identify the most effective configurations.
+  tags: ["nlp", "ai"]
+
+- name: XML to PyQt Code Converter for QLCDNumber Feature
+  role: Principles of Compiler Design Course Project
+  timeline: "Fall 2023"
+  repo: https://github.com/KamyarMoradian/CompilerProject-CodeConverter
+  summary: This project involves a detailed evaluation of different generative models using the Retrieval-Augmented Generation (RAG) framework. The primary objective is to assess the performance of these models in generating contextually relevant and accurate text outputs. The project integrates retrieval mechanisms with generative models to enhance their output quality. It includes implementing various generative models, conducting experiments to compare their performance metrics, and analyzing the results to identify the most effective configurations.
+  tags: ["compiler", "software"]
+
+- name: Memory Hierarchy Simulation with Multi-Level Cache
+  role: Computer Architecture Course Project
+  timeline: "Spring 2022"
+  repo: https://github.com/KamyarMoradian/CompilerProject-CodeConverter
+  summary: This project involves a detailed evaluation of different generative models using the Retrieval-Augmented Generation (RAG) framework. The primary objective is to assess the performance of these models in generating contextually relevant and accurate text outputs. The project integrates retrieval mechanisms with generative models to enhance their output quality. It includes implementing various generative models, conducting experiments to compare their performance metrics, and analyzing the results to identify the most effective configurations.
+  tags: ["hardware"]
+
+
+

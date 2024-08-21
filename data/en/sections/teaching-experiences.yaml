@@ -1,0 +1,46 @@
+# section information
+section:
+  name: Teaching Experiences
+  id: teaching-experiences
+  template: sections/experiences.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: IUST
+    url: "https://www.iust.ac.ir/en"
+    location: Tehran, Iran
+    logo: /images/sections/education/IUST.png
+  positions:
+  - designation: Operating Systems | Dr. Reza Entezari-Maleki
+    start: February 2024
+    end: July 2024
+  - designation: Artificial Intelligence | Dr. MohammadReza Mohammadi
+    start: September 2023
+    end: January 2023
+  - designation: Computer Architecture | Dr. Hakem Beitollahi
+    start: February 2023
+    end: July 2023
+  - designation: Compiler Design Principles | Dr. Saeed Parsa
+    start: February 2023
+    end: July 2023
+  - designation: Theory of Languages & Machines | Dr. Reza Entezari-Maleki
+    start: February 2023
+    end: July 2023
+  - designation: Logic Circuits Design | Dr. Hajar Falahati
+    start: September 2022
+    end: January 2022
+  - designation: Data Structures | Dr. Hussain Rahmani
+    start: September 2022
+    end: January 2022
+  - designation: Advanced Programming | Dr. Marzieh Malekimajd
+    start: February 2022
+    end: July 2022
+  - designation: Discrete Mathematics | Dr. Vesal Hakami
+    start: February 2022
+    end: July 2022
