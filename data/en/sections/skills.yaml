@@ -15,57 +15,55 @@ skills:
   logo: /images/sections/skills/python.svg
   summary: "Proficient in applying Python across diverse domains, including Artificial Intelligence, algorithm development, and web application creation using the Django framework. Adept at leveraging powerful libraries such as NumPy for numerical computing and Pandas for data manipulation and analysis, enhancing my ability to tackle complex computational tasks and data-driven projects."
 
-- name: Tensorflow
-  logo: /images/sections/skills/tensorflow.svg
-  summary: "Proficient in TensorFlow, I've developed and deployed deep learning models for computer vision applications. My projects include implementing convolutional neural networks for image classification, object detection, and segmentation tasks, demonstrating expertise in both high-level Keras API and lower-level TensorFlow modules."
+# - name: Tensorflow
+#   logo: /images/sections/skills/tensorflow.svg
+#   summary: "Proficient in TensorFlow, I've developed and deployed deep learning models for computer vision applications. My projects include implementing convolutional neural networks for image classification, object detection, and segmentation tasks, demonstrating expertise in both high-level Keras API and lower-level TensorFlow modules."
 
-- name: Pytorch
-  logo: /images/sections/skills/pytorch.svg
-  summary: "Skilled in PyTorch, I've applied it to both computer vision and natural language processing domains. My experience spans from implementing cutting-edge CV architectures for image recognition and segmentation to developing NLP models for text classification, sentiment analysis, and language generation."
+# - name: Pytorch
+#   logo: /images/sections/skills/pytorch.svg
+#   summary: "Skilled in PyTorch, I've applied it to both computer vision and natural language processing domains. My experience spans from implementing cutting-edge CV architectures for image recognition and segmentation to developing NLP models for text classification, sentiment analysis, and language generation."
 
-- name: Huggingface
-  logo: /images/sections/skills/hugginface.svg
-  summary: "Proficient in Hugging Face's ecosystem, including datasets for efficient data handling, transformers for implementing state-of-the-art NLP and CV models, and diffusers for working with advanced image generation techniques. Experienced in leveraging the Hugging Face Hub for accessing and sharing models, datasets, and spaces, demonstrating a comprehensive understanding of modern AI development tools and practices."
+# - name: Huggingface
+#   logo: /images/sections/skills/hugginface.svg
+#   summary: "Proficient in Hugging Face's ecosystem, including datasets for efficient data handling, transformers for implementing state-of-the-art NLP and CV models, and diffusers for working with advanced image generation techniques. Experienced in leveraging the Hugging Face Hub for accessing and sharing models, datasets, and spaces, demonstrating a comprehensive understanding of modern AI development tools and practices."
   
-- name: Git
-  logo: /images/sections/skills/git.svg
-  summary: "Experienced in Git-based development, I primarily utilize GitHub for version control. My familiarity with best practices, such as maintaining small, incremental changes and performing regular code reviews, enhances collaboration and code quality within teams."
-  url: "https://git-scm.com/"
+# - name: Git
+#   logo: /images/sections/skills/git.svg
+#   summary: "Experienced in Git-based development, I primarily utilize GitHub for version control. My familiarity with best practices, such as maintaining small, incremental changes and performing regular code reviews, enhances collaboration and code quality within teams."
 
-- name: C#
-  logo: /images/sections/skills/c-sharp.svg
-  summary: "Proficient in C# programming, with the ability to develop a wide range of applications. My experience spans both academic and industrial settings, demonstrating versatility and practical knowledge. Additionally, I possess expertise in creating web applications and services using the ASP.NET framework."
+# - name: C#
+#   logo: /images/sections/skills/c-sharp.svg
+#   summary: "Proficient in C# programming, with the ability to develop a wide range of applications. My experience spans both academic and industrial settings, demonstrating versatility and practical knowledge. Additionally, I possess expertise in creating web applications and services using the ASP.NET framework."
 
-- name: C/C++
-  logo: /images/sections/skills/c++.svg
-  summary: "I have learned and applied C/C++ through my university courses and projects, including Operating Systems and Fundamentals of Programming. This experience has equipped me with a solid understanding of low-level programming concepts and system-level operations."
+# - name: C/C++
+#   logo: /images/sections/skills/c++.svg
+#   summary: "I have learned and applied C/C++ through my university courses and projects, including Operating Systems and Fundamentals of Programming. This experience has equipped me with a solid understanding of low-level programming concepts and system-level operations."
 
-- name: SQL
-  logo: /images/sections/skills/SQL.svg
-  summary: "Proficient in utilizing this programming language alongside two prominent database management systems, SQL Server and PostgreSQL. My experience includes implementing queries and managing data effectively within these environments."
+# - name: SQL
+#   logo: /images/sections/skills/SQL.svg
+#   summary: "Proficient in utilizing this programming language alongside two prominent database management systems, SQL Server and PostgreSQL. My experience includes implementing queries and managing data effectively within these environments."
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Experienced in working with Docker across multiple projects. My expertise includes designing and executing multi-stage and multi-architecture build processes, as well as integrating Docker into CI/CD pipelines for streamlined development and deployment workflows."
-  url: "https://www.docker.com/"
+# - name: Docker
+#   logo: /images/sections/skills/docker.svg
+#   summary: "Experienced in working with Docker across multiple projects. My expertise includes designing and executing multi-stage and multi-architecture build processes, as well as integrating Docker into CI/CD pipelines for streamlined development and deployment workflows."
 
-- name: Linux
-  logo: /images/sections/skills/linux.svg
-  summary: "Used for several university course works. Capable of writing bash scripts."
+# - name: Linux
+#   logo: /images/sections/skills/linux.svg
+#   summary: "Used for several university course works. Capable of writing bash scripts."
 
-- name: Unity
-  logo: /images/sections/skills/unity.svg
-  summary: "Experienced using Unity as part of Advanced Programming Language course project and creating several other mini games using it."
+# - name: Unity
+#   logo: /images/sections/skills/unity.svg
+#   summary: "Experienced using Unity as part of Advanced Programming Language course project and creating several other mini games using it."
 
-- name: Postman
-  logo: /images/sections/skills/postman.svg
-  summary: "Experienced in leveraging this tool for project development, with a focus on implementing and integrating REST APIs."
+# - name: Postman
+#   logo: /images/sections/skills/postman.svg
+#   summary: "Experienced in leveraging this tool for project development, with a focus on implementing and integrating REST APIs."
 
-- name: Wireshark
-  logo: /images/sections/skills/wireshark.png
-  summary: "Experienced using this tool for managing and observing different types of network tolopolgies as part of university coursework."
+# - name: Wireshark
+#   logo: /images/sections/skills/wireshark.png
+#   summary: "Experienced using this tool for managing and observing different types of network tolopolgies as part of university coursework."
 
-- name: Proteus
-  logo: /images/sections/skills/proteus.png
-  summary: "Experienced with this tool in creating different set of hardware as part of my university coursework."
+# - name: Proteus
+#   logo: /images/sections/skills/proteus.png
+#   summary: "Experienced with this tool in creating different set of hardware as part of my university coursework."
 
