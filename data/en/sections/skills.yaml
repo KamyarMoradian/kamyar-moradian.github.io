@@ -47,9 +47,9 @@ skills:
   logo: /images/sections/skills/docker.svg
   summary: "Experienced in working with Docker across multiple projects. My expertise includes designing and executing multi-stage and multi-architecture build processes, as well as integrating Docker into CI/CD pipelines for streamlined development and deployment workflows."
 
-- name: Linux
-  logo: /images/sections/skills/linux.svg
-  summary: "Used for several university course works. Capable of writing bash scripts."
+# - name: Linux
+#   logo: /images/sections/skills/linux.svg
+#   summary: "Used for several university course works. Capable of writing bash scripts."
 
 # - name: Unity
 #   logo: /images/sections/skills/unity.svg
