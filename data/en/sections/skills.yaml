@@ -51,19 +51,19 @@ skills:
   logo: /images/sections/skills/linux.svg
   summary: "Used for several university course works. Capable of writing bash scripts."
 
-- name: Unity
-  logo: /images/sections/skills/unity.svg
-  summary: "Experienced using Unity as part of Advanced Programming Language course project and creating several other mini games using it."
+# - name: Unity
+#   logo: /images/sections/skills/unity.svg
+#   summary: "Experienced using Unity as part of Advanced Programming Language course project and creating several other mini games using it."
 
-- name: Postman
-  logo: /images/sections/skills/postman.svg
-  summary: "Experienced in leveraging this tool for project development, with a focus on implementing and integrating REST APIs."
+# - name: Postman
+#   logo: /images/sections/skills/postman.svg
+#   summary: "Experienced in leveraging this tool for project development, with a focus on implementing and integrating REST APIs."
 
-- name: Wireshark
-  logo: /images/sections/skills/wireshark.png
-  summary: "Experienced using this tool for managing and observing different types of network tolopolgies as part of university coursework."
+# - name: Wireshark
+#   logo: /images/sections/skills/wireshark.png
+#   summary: "Experienced using this tool for managing and observing different types of network tolopolgies as part of university coursework."
 
-- name: Proteus
-  logo: /images/sections/skills/proteus.png
-  summary: "Experienced with this tool in creating different set of hardware as part of my university coursework."
+# - name: Proteus
+#   logo: /images/sections/skills/proteus.png
+#   summary: "Experienced with this tool in creating different set of hardware as part of my university coursework."
 
