@@ -11,22 +11,6 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Hamkaran System
-    url: "https://www.systemgroup.net"
-    location: Tehran, Iran
-    logo: /images/sections/experiences/logo.svg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: Hamkaran System is a prominent Iranian software company specializing in enterprise resource planning (ERP) solutions, providing business management software to various industries across Iran.
-  positions:
-  - designation: Backend Developer Trainee
-    start: March 2023
-    end: July 2023
-    responsibilities:
-    - Gained foundational knowledge in C# and the .NET Framework, focusing on building robust and scalable applications.
-    - Participated in the development of the Fanoos Project, a .NET ASP WebForm application.
-
-- company:
     name: Digikala
     url: "https://www.digikala.com"
     location: Tehran, Iran
@@ -48,3 +32,19 @@ experiences:
     - Applied practical software engineering principles, including SOLID and design patterns, for scalable code.
     - Acquired knowledge of network fundamentals and protocols, enhancing software development capabilities.
     - Gained hands-on experience with the PHP Symfony Framework and collaboratively implemented an e-commerce platform for an online store
+
+- company:
+    name: Hamkaran System
+    url: "https://www.systemgroup.net"
+    location: Tehran, Iran
+    logo: /images/sections/experiences/logo.svg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: Hamkaran System is a prominent Iranian software company specializing in enterprise resource planning (ERP) solutions, providing business management software to various industries across Iran.
+  positions:
+  - designation: Backend Developer Trainee
+    start: March 2023
+    end: July 2023
+    responsibilities:
+    - Gained foundational knowledge in C# and the .NET Framework, focusing on building robust and scalable applications.
+    - Participated in the development of the Fanoos Project, a .NET ASP WebForm application.

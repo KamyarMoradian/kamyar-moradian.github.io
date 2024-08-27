@@ -16,42 +16,47 @@ accomplishments:
   organization:
     name: Coursera, DeepLearning.AI
     url: https://www.coursera.org
-  # courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://coursera.org/share/393e3be8d625f3e9d0e8afbf3594b731"
+  courseOverview: "Facial Recognition System | Tensorflow | Convolutional Neural Network | Deep Learning | Object Detection and Segmentation"
+  certificateURL: "https://coursera.org/verify/K68B62KNXBSV"
 
 - name: Sequence Models
   timeline: "Feb 2024"
   organization:
     name: Coursera, DeepLearning.AI
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/a002bbde0c776b58191c7b5bb097de21"
+  courseOverview: "Gated Recurrent Unit (GRU) | Recurrent Neural Network | Natural Language Processing | Long Short Term Memory (LSTM) | Attention Models"
+  certificateURL: "https://coursera.org/verify/JQY22J2U7285"
 
 - name: Improving Deep Neural Networks - Hyperparameter Tuning, Regularization and Optimization
   timeline: "Oct 2023"
   organization:
     name: Coursera, DeepLearning.AI
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/2ed72b46bfafe624b0557f09555aba0c"
+  courseOverview: "Tensorflow | Deep Learning | Hyperparameter Tuning | Mathematical Optimization"
+  certificateURL: "https://coursera.org/verify/WQ36CME9F9GT"
 
 - name: Structuring Machine Learning Projects
   timeline: "Oct 2023"
   organization:
     name: Coursera, DeepLearning.AI
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/bd82c3c6bad9e1384ff989145c400931"
+  courseOverview: "Decision-Making | Machine Learning | Deep Learning | Inductive Transfer | Multi-Task Learning"
+  certificateURL: "https://coursera.org/verify/P8A8TLH2WQDR"
 
 - name: Neural Networks and Deep Learning
   timeline: "Sep 2023"
   organization:
     name: Coursera, DeepLearning.AI
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/2ed72b46bfafe624b0557f09555aba0c"
+  courseOverview: "Artificial Neural Network | Backpropagation | Python Programming | Deep Learning | Neural Network Architecture"
+  certificateURL: "https://coursera.org/verify/CRMC35VM8UFV"
 
 - name: Unsupervised Learning, Recommenders, Reinforcement Learning
   timeline: "Sep 2023"
   organization:
     name: Coursera, Standford, DeepLearning.AI
     url: https://www.coursera.org
+  courseOverview: "Anomaly Detection | Unsupervised Learning | Reinforcement Learning | Collaborative Filtering | Recommender Systems"
   certificateURL: "https://coursera.org/share/2ccdeaed0f42bf531d8734bcca968c58"
 
 - name: Advanced Learning Algorithms
@@ -59,77 +64,96 @@ accomplishments:
   organization:
     name: Coursera, Standford, DeepLearning.AI
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/e56b013be6210ef5ddc40c39033be188"
+  courseOverview: " Tensorflow | Advice for Model Development | Artificial Neural Network | Xgboost | Tree Ensembles"
+  certificateURL: "https://coursera.org/verify/AQHTJELA9ASU"
 
 - name: Supervised Machine Learning - Regression and Classification
   timeline: "Aug 2023"
   organization:
     name: Coursera, Standford, DeepLearning.AI
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/265af4d2765fbbd2ee246dd9990e628c"
+  courseOverview: "Linear Regression | Regularization to Avoid Overfitting | Logistic Regression for Classification | Gradient Descent | Supervised Learning"
+  certificateURL: "https://coursera.org/verify/DZCT3ML82SPY"
 
 - name: Linear Algebra for Machine Learning and Data Science
   timeline: "Sep 2023"
   organization:
     name: Coursera, DeepLearning.AI
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/cc8984f9172082b88bb76744c96ed002"
+  courseOverview: "Eigenvalues And Eigenvectors | Linear Equation | Determinants | Machine Learning | Linear Algebra"
+  certificateURL: "https://coursera.org/verify/LP3FDG6MDN85"
+
+- name: AI for Everyone
+  timeline: "Jul 2023"
+  organization:
+    name: Coursera, DeepLearning.AI
+    url: https://www.coursera.org
+  courseOverview: "Deep Learning | Machine Learning"
+  certificateURL: "https://coursera.org/verify/AKLZSSGJCJKR"
 
 - name: Capstone - Retrieving, Processing, and Visualizing Data with Python
   timeline: "Sep 2022"
   organization:
     name: Coursera, University of Michigan
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/9e3745b77de45ccfc13ca3e59ec606b2"
+  courseOverview: "Data Analysis | Python Programming | Database (DBMS) | Data Visualization"
+  certificateURL: "https://coursera.org/verify/AGDCLE9948WH"
 
 - name: Using Databases with Python
   timeline: "Sep 2022"
   organization:
     name: Coursera, University of Michigan
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/b0dc8a073730593e746f6530f4a0c733"
+  courseOverview: "Python Programming | Database (DBMS) | Sqlite | SQL"
+  certificateURL: "https://coursera.org/verify/HUS3M6ZFWSR6"
 
 - name: Using Python to Access Web Data
   timeline: "Sep 2022"
   organization:
     name: Coursera, University of Michigan
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/008d8b25430963e42b0090661b67fa6d"
+  courseOverview: "Computer Programming | Computer Programming Tools | Programming Principles | Python Programming | Data Structures | Web Development | Computer Networking | HTML and CSS"
+  certificateURL: "https://coursera.org/verify/87KF5NUJ4TU9"
 
 - name: Python Data Structures
   timeline: "Aug 2022"
   organization:
     name: Coursera, University of Michigan
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/a14c01d694bb82612e635ee52c7e322d"
+  courseOverview: "Python Syntax And Semantics | Data Structure | Tuple | Python Programming"
+  certificateURL: "https://coursera.org/verify/JRPSSGWAAKT5"
 
 - name: Programming for Everybody (Getting Started with Python)
   timeline: "Aug 2022"
   organization:
     name: Coursera, University of Michigan
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/61c69c3cfcaf09356df64b0d772ab7aa"
+  courseOverview: "Python Syntax And Semantics | Basic Programming Language | Computer Programming | Python Programming"
+  certificateURL: "https://coursera.org/verify/WJ326BJVNZYQ"
 
 - name: Algorithms on Graphs
   timeline: "Jul 2022"
   organization:
     name: Coursera, UC, SanDiego
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/858749c9f48181e65cb2a3d99ef31cb8"
+  courseOverview: "Algorithms | Data Structures | Graph Theory | Theoretical Computer Science | Computer Programming"
+  certificateURL: "https://coursera.org/verify/8498BUY5N2QJ"
 
 - name: Data Structures
   timeline: "Feb 2022"
   organization:
     name: Coursera, UC, SanDiego
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/619884a0bbdeeea0da61471d4d1a6317"
+  courseOverview: "Algorithms | Computer Programming | Data Structures | Theoretical Computer Science | Problem Solving | Computer Programming Tools | Mathematical Theory & Analysis | Programming Principles | Mathematics"
+  certificateURL: "https://coursera.org/verify/PE56BBAQMN8R"
 
 - name: Algorithmic Toolbox
   timeline: "Sep 2021"
   organization:
     name: Coursera, UC, SanDiego
     url: https://www.coursera.org
-  certificateURL: "https://coursera.org/share/6ca5c349b56b1dca156d33c56b123725"
+  courseOverview: "Algorithms | Computer Programming | Problem Solving | Theoretical Computer Science | Critical Thinking | Computer Programming Tools | Data Structures | Programming Principles | Software Testing"
+  certificateURL: "https://coursera.org/verify/XB4RDHT25RTD"
 
 
 
