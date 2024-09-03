@@ -2,7 +2,7 @@
 name: "Kamyar Moradian"
 nickname: "Kamyar"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hello, I am"
+greeting: "(Hello | سلام)! I am"
 image: "images/author/kamyar.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -20,5 +20,5 @@ contactInfo:
 # some summary about what you do
 summary:
   - I am an AI enthusiast
-  - I am a Developer
+  - I am an explorer of computer vision
   - I love to learn and experiment new things

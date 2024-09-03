@@ -26,7 +26,11 @@ skills:
 - name: Huggingface
   logo: /images/sections/skills/hugginface.svg
   summary: "Proficient in Hugging Face's ecosystem, including datasets for efficient data handling, transformers for implementing state-of-the-art NLP and CV models, and diffusers for working with advanced image generation techniques. Experienced in leveraging the Hugging Face Hub for accessing and sharing models, datasets, and spaces, demonstrating a comprehensive understanding of modern AI development tools and practices."
-  
+
+- name: OpenCv
+  logo: /images/sections/skills/open-cv.svg
+  summary: "experienced using OpenCV for various academic projects, focusing on image processing, object detection, and facial recognition. Through these projects, I have developed a solid understanding of computer vision techniques and their practical applications, allowing me to effectively analyze and interpret visual data."
+
 - name: Git
   logo: /images/sections/skills/git.svg
   summary: "Experienced in Git-based development, I primarily utilize GitHub for version control. My familiarity with best practices, such as maintaining small, incremental changes and performing regular code reviews, enhances collaboration and code quality within teams."
