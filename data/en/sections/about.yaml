@@ -19,10 +19,18 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'With a solid foundation in computer science and mathematics, I have engaged in coursework and 
-projects focused on machine learning and data science. My skills in programming languages like Python and 
-experience with AI frameworks such as TensorFlow equip me for advanced studies. I am enthusiastic about 
-expanding my knowledge and contributing to the field of AI at a leading institution.'
+summary: 'In my 4th semester, I was introduced to the fascinating world of Artificial Intelligence (AI),
+sparking a passion that has driven my academic and professional pursuits ever since. To deepen my understanding,
+I have completed numerous courses, both online and in-person, allowing me to explore and experiment with AI 
+concepts extensively. <br>
+My projects have covered a wide range of AI fundamentals, including Constraint Satisfaction Problems (CSP) 
+and Bayesian models, as well as more advanced topics like Reinforcement Learning, Computer Vision, and Natural 
+Language Processing. I am also deeply invested in the ethical considerations of AI models, having conducted several 
+studies on this critical aspect. <br>
+Currently, I am pursuing my studies at Iran University of Science and Technology (IUST), where my primary focus is on
+Computer Vision within the broader fields of Machine Learning, Deep Learning, and Artificial Intelligence. I am also
+enthusiastic about exploring the nuances of Natural Language Processing and its potential to transform how we interact
+with technology.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -37,7 +45,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/kamyar-moradian-17b3a91bb/"
+  url: "https://www.linkedin.com/in/kamyar-moradian"
 
 # - name: Stackoverflow
 #   icon: "fab fa-stack-overflow"
