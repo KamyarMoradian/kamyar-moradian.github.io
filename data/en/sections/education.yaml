@@ -87,7 +87,7 @@ degrees:
       
   customSections: #(optional)
     - name: Acheivements
-      content: <ul><li>Ranked 3rd GPA among class of 90 undergraduate students in the Computer Engineering Department of IUST University</li><li>Outstanding student of the annual celebration of the university's educational excellence (ranked 2nd among the Computer Engineering students)</li><li>Ranked within the top 0.5% (729th) in the Iranian University Entrance Exam (Konkoor-e-Sarasari) for Bachelor’s Study among more then 155,000 participants</li></ul>
+      content: <ul><li>Ranked 3rd GPA among class of 90 undergraduate students in the Computer Engineering Department of IUST University</li><li>Outstanding student of the annual celebration of the university's educational excellence (ranked 2nd among the Computer Engineering students)</li><li>Ranked within the top 0.5% in the Iranian University Entrance Exam (Konkoor-e-Sarasari) for Bachelor’s Study among more then 155,000 participants</li></ul>
     # - name: Thesis (Under Prepration)
     #   content: The Synergy of Artificial Intelligence and Virtual Reality in Residential Spaces
     # - name: Supervisor
