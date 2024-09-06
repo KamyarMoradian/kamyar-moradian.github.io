@@ -44,6 +44,24 @@ projects:
   summary: Developed a sentiment analysis model for Persian text, detecting six key emotions—Anger, Fear, Happiness, Sadness, Wonder, and Hatred—using the XLM-RoBERTa transformer model. Preprocessed the text with NLP techniques and fine-tuned the model on the ArmanEmo dataset, achieving 75.23% accuracy, among the top accuracies of class. Conducted experiments to validate the model's robustness and compared performance across different architectures.
   tags: ["artificial-intelligence", "natural-langauge-processing", "python", "pytorch", "huggingface", "pandas"]
 
+- name: Persian Question Answering
+  role: Hobby!
+  timeline: "Summer 2024"
+  repo: https://github.com/KamyarMoradian/Persian-QA
+  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Developed a Persian Question Answering Model project, evaluating and fine-tuning two pre-trained models using the PersianQA dataset. Implemented custom evaluation metrics, including a novel judge_similarity method. Utilized Python, Transformers, and Sentence-Transformers libraries for data processing, model fine-tuning, and performance assessment, demonstrating expertise in NLP and machine learning
+  tags: ["artificial-intelligence", "natural-langauge-processing", "python", "pytorch", "huggingface", "pandas"]
+
+- name: Persian ASR
+  role: Hobby!
+  timeline: "Summer 2024"
+  repo: https://github.com/KamyarMoradian/Persian-ASR
+  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Developed a Persian Speech-to-Text Conversion project, evaluating and fine-tuning state-of-the-art models (stt_fa_fastconformer_hybrid_large, seamless-m4t-v2-large, whisper-large-v3) on a preprocessed Persian YouTube dataset. Implemented custom evaluation metrics (WER, CER) and utilized NVIDIA's NEMO framework for model fine-tuning. Employed TensorBoard for performance visualization and created optimized datasets on Hugging Face, demonstrating proficiency in speech recognition, NLP, and machine learning techniques.
+  tags: ["artificial-intelligence", "automatic-speech-recognition", "python", "nemo", "huggingface"]
+
 - name: Katyusha - A Course Registration Assistant for Students
   role: System Analysis & Design Course Project | Software Engineering Course Project
   logo: /images/sections/projects/katyusha.png
